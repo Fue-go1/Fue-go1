@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F77DD&width=600&lines=Hi%2C+I'm+Kofi+Assan+%F0%9F%91%BE;Pixel+Artist+%26+Game+Developer;Building+worlds%2C+one+tile+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=7F77DD&width=900&height=40&lines=Crafting+worlds%2C+one+pixel+at+a+time.;Where+code+meets+creativity.;Student+by+day%2C+game+dev+by+night.;Turning+ideas+into+interactive+experiences.)](https://git.io/typing-svg)
 ## Hi there, I'm Kofi Assan 👋
 
 🏫I.T Student at Academic City University College<br/>
 👾Hobbyist Pixel Artist & Game Developer<br/>
+🖥️Tech Enthusiast<br/>
 📽️Enjoys Video Editing<br/>
 📖Avid reader & World Builder<br/>
 
