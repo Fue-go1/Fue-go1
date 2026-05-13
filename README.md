@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F77DD&width=600&lines=Hi%2C+I'm+Kofi+Assan+%F0%9F%91%BE;Pixel+Artist+%26+Game+Developer;Building+worlds%2C+one+tile+at+a+time.)](https://git.io/typing-svg)
 ## Hi there, I'm Kofi Assan 👋
 
 🏫I.T Student at Academic City University College<br/>
