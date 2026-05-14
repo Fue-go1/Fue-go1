@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=7F77DD&width=900&height=40&lines=Crafting+worlds%2C+one+pixel+at+a+time.;Where+code+meets+creativity.;Student+by+day%2C+game+dev+by+night.;Turning+ideas+into+interactive+experiences.)](https://git.io/typing-svg)
 ## Hi there, I'm Kofi Assan 👋
 
-🏫I.T Student at Academic City University College<br/>
+🏫I.T Student @ Academic City University College<br/>
 👾Hobbyist Pixel Artist & Game Developer<br/>
 🖥️Tech Enthusiast<br/>
 📽️Enjoys Video Editing<br/>
